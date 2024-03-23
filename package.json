@@ -1,0 +1,9 @@
+{
+  "name": "fetch-ipv6",
+  "scripts": {
+    "vitest": "vitest run --dir ./ --environment node"
+  },
+  "devDependencies": {
+    "vitest": "^1.4.0"
+  }
+}
